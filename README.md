@@ -17,7 +17,7 @@ Additional description about the project and its features.
 
 ## Deployment
 
-[Live Demo Link](https://ignatius22.github.io/hello-microverse/)
+[Live Demo Link](https://awesome-aryabhata-aa3120.netlify.app/)
 
 ### Deployment
 
