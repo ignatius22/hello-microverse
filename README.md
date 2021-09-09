@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello-Microverse
 
-> One paragraph statement about the project.
+> This is simple project to demonstrate understanding of basic HTML and CSS. I am building a professional project and giving attention to the project documentation by including a descriptive README as a training exercise experience.
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,56 +10,32 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- style with CSS.
+- Github
+- VSCode
 
-## Live Demo
+## Deployment
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
+[Live Demo Link](https://awesome-aryabhata-aa3120.netlify.app/)
 
 ### Deployment
 
-
+- Deployed using github pages
 
 ## Authors
 
-👤 **Author1**
+👤 **Ignatius Sani**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@ignatius22](https://github.com/ignatius22)
+- Twitter: [iggy_code](https://twitter.com/iggy_code)
+- LinkedIn: [ignatiussani](https://linkedin.com/in/ignatiussani)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/ignatius22/hello-microverse/issues/).
 
 ## Show your support
 
