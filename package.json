@@ -4,5 +4,8 @@
   "description": "code review training",
   "main": "index.js",
   "author": "Iggy",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "hint": "^6.1.4"
+  }
 }
