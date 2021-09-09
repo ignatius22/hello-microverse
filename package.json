@@ -1,0 +1,8 @@
+{
+  "name": "hello-microverse",
+  "version": "1.0.0",
+  "description": "code review training",
+  "main": "index.js",
+  "author": "Iggy",
+  "license": "MIT"
+}
